@@ -1,2 +1,2 @@
-# Utils
-Utility Methods and extensions that can reused accross multiple projects
+A collection of packages providing common functionality across the Base Platform.
+
