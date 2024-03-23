@@ -1,4 +1,4 @@
-﻿namespace Platform.Core.Auth.FunctionApp.Attributes;
+﻿namespace Platform.Core.FunctionApp.Attributes;
 
 /// <summary>
 /// Set at Function class or method level to

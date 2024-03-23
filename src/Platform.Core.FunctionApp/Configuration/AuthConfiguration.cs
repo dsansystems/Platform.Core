@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Platform.Core.Auth.FunctionApp.Configuration;
+namespace Platform.Core.FunctionApp.Configuration;
 
 /// <summary>
 /// Auth Configuration
